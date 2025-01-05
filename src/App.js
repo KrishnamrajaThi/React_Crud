@@ -1,10 +1,10 @@
 import "./App.css";
-import Test from "./Test";
+import {Layout} from "./components/Layout";
 
 function App() {
   return (
     <div >
-      <Test  />
+      <Layout/>
     </div>
   );
 }
